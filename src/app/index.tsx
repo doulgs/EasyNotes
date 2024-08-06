@@ -148,7 +148,7 @@ export default function Index() {
               {selectedType === "PENDENTE" ? "pendente" : "finalizada"}
               {`\n`}
               {`\n`}
-              Começe agora mesmo a ter mais sobre controle sobre seus a fazeres
+              Começe agora mesmo a ter mais controle sobre seus a fazeres
             </Text>
           </View>
         )}
